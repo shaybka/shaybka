@@ -3,11 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaybka" alt="shaybka" /></a> </p>
 
-- 🌱 I’m currently learning **react,flutter**
+- 🌱 I’m currently learning **nextJs,flutter**
 
-- 💬 Ask me about **html,css,javascript,php**
+- 💬 Ask me about **html,css,javascript,php,nodejs,react,nextjs,mongo,mysql,sqlserver,oracle,tailwindcss**
 
 - 📫 How to reach me **adenmohmuud@gmail.com**
+
 
 - ⚡ Fun fact **Programs must be written for people to read, and only incidentally for machines to execute**
 
