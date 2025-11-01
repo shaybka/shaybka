@@ -1,6 +1,6 @@
 <img align="top" alt="coding" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif">
 <h1 align="center">Hi 👋, I'm Adem Mohamoud Ali</h1>
-<h3 align="center">A passionate fullstack developer from somalia</h3>
+<h3 align="center">A passionate full-stack developer from Somalia </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaybka&label=Profile%20views&color=0e75b6&style=flat" alt="shaybka" /> </p>
 
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/adem" target="blank"><img src="https://img.shields.io/twitter/follow/adem?logo=twitter&style=for-the-badge" alt="adem" /></a> </p>
 
-- 🔭 I’m currently working on Modern Hospital doctor appointment
+- 🔭 I’m currently working on a Flow-Up Recovery System
 
-- 🌱 I’m currently learning **nextjs,flutter**
+- 🌱 I’m currently learning DevOps and AI integration for web apps
 
-- 💬 Ask me about **react,php,js,reactnative,nextjs**
+- 💬 Ask me about **react,php,js,reactnative,nextjs,nodejs,mongodb**
 
 - 📫 How to reach me **adenmohmuud@gmail.com**
 
-- ⚡ Fun fact **Programs must be written for people to read, and only incidentally for machines to execute**
+- ⚡ Fun fact **Every project I touch becomes part of my digital fingerprint.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaybka&show_icons=true&locale=en" alt="shaybka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaybka&" alt="shaybka" /></p>
+
+<h3 align="center">🚀 Let's Build the Future Together</h3>
+<p align="center">💡 Open to collaborations on full-stack or AI-based projects</p>
